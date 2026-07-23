@@ -1,0 +1,15 @@
+Alfido-Tech-Sales-Analysis/
+│
+├── Sales_Analysis.ipynb
+├── cleaned_superstore_sales.csv
+├── README.md
+├── dashboard/
+│   ├── PowerBI.pbix
+│   └── Tableau.twbx
+├── images/
+│   ├── monthly_sales.png
+│   ├── category_sales.png
+│   ├── region_sales.png
+│   ├── top_products.png
+│   └── shipping_distribution.png
+└── Report.pdf
